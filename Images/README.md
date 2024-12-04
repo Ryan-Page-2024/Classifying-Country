@@ -32,7 +32,9 @@ This image outlines the Project Scope for the Country Music Topic Modeling proje
 
 ## File Name: Topic_Modeling_Themes
 This image outlines a structured overview of thematic categories used for analyzing Country music lyrics. Each theme is paired with a concise description highlighting its focus.
+
 <br>
+
 Key themes include:
 - **Love and Relationships**: Focuses on romantic relationships, as well as intimate, emotional bonds.  
 - **Family, Friends, and Roots**: Broader relationships, friends and family, as well as traditions and growing up.  
