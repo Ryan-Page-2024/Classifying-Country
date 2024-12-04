@@ -6,3 +6,8 @@ Focusing on themes such as Love, Small-Town Life, Freedom, and Independence, I e
 My project highlights my experience with the culturally and historically significant voices of Country artists. I invite listeners to engage more deeply with the enduring legacy of this uniquely Americana sound.
 
 Note: This project is currently in progress
+
+<br>
+
+# Latest Update:
+I have migrated data, images, and the latest code that I am using. I am beginning to categorize words with hopes of using this categorization to highlight themes in featured songs.
