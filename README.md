@@ -11,4 +11,7 @@ Note: This project is currently in progress
 
 # Latest Update:
 I have migrated data, images, and the latest code that I am using. 
+
+<br>
+
 I am beginning to categorize words with hopes of using this categorization to highlight themes in featured songs.
