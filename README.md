@@ -10,4 +10,5 @@ Note: This project is currently in progress
 <br>
 
 # Latest Update:
-I have migrated data, images, and the latest code that I am using. I am beginning to categorize words with hopes of using this categorization to highlight themes in featured songs.
+I have migrated data, images, and the latest code that I am using. 
+I am beginning to categorize words with hopes of using this categorization to highlight themes in featured songs.
