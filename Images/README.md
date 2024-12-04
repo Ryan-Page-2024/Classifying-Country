@@ -27,3 +27,5 @@ This image showcases the final segment of the Country Vibes Playlist, featuring 
 
 ## File Name: Project_Scope
 This image outlines the Project Scope for the Country Music Topic Modeling project, divided into four distinct sections: Featured Songs, Data Exploration, Topic Modeling, and Artist Profiles.
+
+<br>
