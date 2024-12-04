@@ -1,4 +1,4 @@
-# Visualizations
+# Summary of Included Images
 
 ## File Name: Collaborations_A
 This visual displays 20 song collaborations featured on the Country Vibes Playlist along with their lead artist and guest artists, categorized by title and artist origin.
