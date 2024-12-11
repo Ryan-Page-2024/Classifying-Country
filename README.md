@@ -1,5 +1,5 @@
 # Unearthing Country Music - Beneath the Twang -
-In this project, I explore the heart of Country music through a curated playlist of 200 songs spanning the years 1949 to 2024 featuring 50 artists, applying topic modeling to uncover rich narratives, and explore what lies beneath the twang.
+In this project, I explore the heart of Country music through a curated playlist of 200 songs spanning the years 1949 to 2024 featuring 50 artists, applying natural language processing techniques to explore what lies beneath the twang.
 
 Focusing on themes such as Love, Small-Town Life, Freedom, and Independence, I examine how motifs have intertwined and shifted as the genre evolves over time and across generations of performers.
 
