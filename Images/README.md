@@ -36,26 +36,26 @@ This image outlines a structured overview of thematic categories used for analyz
 <br>
 
 Key themes include:
-- **Love and Relationships**: Focuses on romantic relationships, as well as intimate, emotional bonds.  
-- **Family, Friends, and Roots**: Broader relationships, friends and family, as well as traditions and growing up.  
-- **Life and Time**: Existence, the passage of time, frequency and permanence, as well as milestones.  
-- **Emotions and Moral Beliefs**: Internal feelings, moral beliefs, and psychological states.  
-- **Freedom and Independence**: Aspirations for self-determination and autonomy, alongside feeling constraint.  
-- **Conflict and Struggle**: Challenges, fights, loneliness, struggles, overcoming, and finality.  
-- **Death, Faith, and Religion**: Focuses on mortality, the afterlife, spiritual practices, and spiritual concepts.  
-- **Age and Nostalgia**: Reflections on age, the past, and memories.  
-- **Music, Dance, and Celebration**: Captures music, dance, and social activities such as partying.  
-- **Americana**: National pride and iconic symbols (the flag, republic, cowboys, etc.).  
-- **Transportation**: Modes of movement, vehicles, and manufacturers.  
-- **Occupations and Work**: Specific work roles and societal functions.  
-- **Consumption and Indulgence**: References to food, drink, drugs, and alcohol, along with their associated effects.  
-- **Leisure and Pastimes**: Leisure activities, reflecting moments of rest, joy, or simple pleasures.  
-- **Nature and Environment**: The natural world, encompassing landscapes, climates, and the four seasons.  
-- **Places and Settings**: Specific references to cities and states.  
-- **Animals**: Creatures of the natural and domesticated realms.  
-- **Law and Justice**: Captures concepts of equality, crime, retribution, and punishment.  
-- **Technology and Modern Life**: Advancements that shape society, culture, and daily life.  
-- **Outliers**: Words that do not strongly align with any specific theme or require a lot of context.  
+- **Love and Relationships**: Romantic relationships, as well as intimate, emotional bonds  
+- **Family, Friends, Roles, and Roots**: Broader relationships, friends and family, as well as traditions and growing up  
+- **Life and Time**: Existence, the passage of time, frequency and permanence, as well as milestones  
+- **Emotions, Moral Beliefs, and States of Mind**: Internal feelings, moral beliefs, and psychological states  
+- **Freedom and Independence**: Aspirations for self-determination and autonomy, as well as feeling constraint  
+- **Conflict, Struggle, Perseverance, and Resolution**: Challenges, fights, struggles, overcoming, and finality  
+- **Death, Faith, and Religion**: Focuses on mortality, the afterlife, spiritual practices, and spiritual concepts  
+- **Age and Nostalgia**: Reflections on age, reminiscing a general past, and memories  
+- **Music, Dance, and Celebration**: Captures music, dance, and singing  
+- **Americana**: National pride and iconic symbols (the flag, republic, cowboys, etc.)  
+- **Gears and Gasoline**: Vehicles, manufacturers, travel, expressions that signify mobility and resources for travel (e.g., gas, oil, etc.)  
+- **Occupations, Work, and Money**: Specific work roles and societal functions, as well as class dynamics amd status  
+- **Consumption and Indulgence**: References to food, drink, drugs, and alcohol, along with their associated effects  
+- **Leisure and Pastimes**: Leisure activities, reflecting moments of rest, joy, or simple pleasures  
+- **Nature, Weather, Seasons, and the Environment**: The natural world, natural imagery, landscapes, climates, and the four seasons  
+- **Cities, States, and Geographic Identities**: Specific references to cities, states, and regions (e.g., Dixie, Nickajacks)  
+- **Animals**: Creatures of the natural and domesticated realms  
+- **Law and Justice**: Captures concepts of equality, crime, retribution, and punishment  
+- **Technology and Modern Life**: Advancements that shape society, culture, and daily life 
+- **Outliers**: Words that do not strongly align with any specific theme
 
 <br>
 
