@@ -44,7 +44,7 @@ Key themes include:
 - **Conflict, Struggle, Perseverance, and Resolution**: Challenges, fights, struggles, overcoming, and finality  
 - **Death, Faith, and Religion**: Focuses on mortality, the afterlife, spiritual practices, and spiritual concepts  
 - **Age and Nostalgia**: Reflections on age, reminiscing a general past, and memories  
-- **Music, Dance, and Celebration**: Captures music, dance, and singing  
+- **Music, Dance, and Celebration**: Captures music, dance, singing, and celebration  
 - **Americana**: National pride and iconic symbols (the flag, republic, cowboys, etc.)  
 - **Gears and Gasoline**: Vehicles, manufacturers, travel, expressions that signify mobility and resources for travel (e.g., gas, oil, etc.)  
 - **Occupations, Work, and Money**: Specific work roles and societal functions, as well as class dynamics amd status  
