@@ -49,7 +49,7 @@ Key themes include:
 - **Gears and Gasoline**: Vehicles, manufacturers, travel, expressions that signify mobility and resources for travel (e.g., gas, oil, etc.)  
 - **Occupations, Work, and Money**: Specific work roles and societal functions, as well as class dynamics amd status  
 - **Consumption and Indulgence**: References to food, drink, drugs, and alcohol, along with their associated effects  
-- **Leisure and Pastimes**: Leisure activities, reflecting moments of rest, joy, or simple pleasures  
+- **Hobbies, Pastimes, and Jokes**: Hobbies, moments of rest, joy, or simple pleasures, as well as jokes  
 - **Nature, Weather, Seasons, and the Environment**: The natural world, natural imagery, landscapes, climates, and the four seasons  
 - **Cities, States, and Geographic Identities**: Specific references to cities, states, and regions (e.g., Dixie, Nickajacks)  
 - **Animals**: Creatures of the natural and domesticated realms  
