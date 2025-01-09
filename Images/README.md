@@ -42,25 +42,25 @@ This image outlines a structured overview of thematic categories used for analyz
 
 Key themes include:
 - **Love and Relationships**: Romantic relationships, as well as intimate, emotional bonds  
-- **Family, Friends, Roles, and Roots**: Broader relationships, friends and family, as well as traditions and growing up  
-- **Life and Time**: Existence, the passage of time, frequency and permanence, as well as milestones  
-- **Emotions, Moral Beliefs, and States of Mind**: Internal feelings, moral beliefs, and psychological states  
-- **Freedom and Independence**: Aspirations for self-determination and autonomy, as well as feeling constraint  
-- **Conflict, Struggle, Perseverance, and Resolution**: Challenges, fights, struggles, overcoming, and finality  
+- **Emotions, Morals, and Mind**: Internal feelings, loneliness, moral beliefs, and psychological states  
+- **Conflict, Struggle, and Perseverance**: Challenges, fights, struggles, overcoming, and finality  
+- **Family, Friends, and Roots**: Personal bonds with community, friends, and family, as well as traditions, a sense of home, and growing up  
 - **Death, Faith, and Religion**: Focuses on mortality, the afterlife, spiritual practices, and spiritual concepts  
-- **Age and Nostalgia**: Reflections on age, reminiscing a general past, and memories  
-- **Music, Dance, and Celebration**: Captures music, dance, singing, and celebration  
-- **Americana**: National pride and iconic symbols (the flag, republic, cowboys, etc.)  
-- **Gears and Gasoline**: Vehicles, manufacturers, travel, expressions that signify mobility and resources for travel (e.g., gas, oil, etc.)  
-- **Occupations, Work, and Money**: Specific work roles and societal functions, as well as class dynamics amd status  
+- **Life and Time**: Existence, the passage of time, change, frequency and permanence, as well as milestones  
 - **Consumption and Indulgence**: References to food, drink, drugs, and alcohol, along with their associated effects  
+- **Nature and the Environment**: The natural world, natural imagery, landscapes, climates, and the four seasons  
+- **Gears and Gasoline**: Vehicles, manufacturers, travel, expressions that signify mobility, and resources for travel (e.g., gas, oil)  
+- **Occupations, Work, and Money**: Specific work roles, societal functions, as well as class dynamics and status  
+- **Geographic Identities**: Specific references to cities and states, as well as broader regions (e.g. Dixie, Nickajacks, etc.)  
+- **Age, Nostalgia, and Memory**: Reflections on age, reminiscing a general past, and memories
+- **Music, Dance, and Celebratione**: Captures music, dance, singing, and celebration
+- **Outliers**: Does not strongly align with any specific theme  
+- **Americana**: National pride and iconic symbols (the flag, republic, cowboys, etc.)  
 - **Hobbies, Pastimes, and Jokes**: Hobbies, moments of rest, joy, or simple pleasures, as well as jokes  
-- **Nature, Weather, Seasons, and the Environment**: The natural world, natural imagery, landscapes, climates, and the four seasons  
-- **Cities, States, and Geographic Identities**: Specific references to cities, states, and regions (e.g., Dixie, Nickajacks)  
-- **Animals**: Creatures of the natural and domesticated realms  
+- **Freedom and Independence**: Aspirations for self-determination and autonomy, as well as feeling constraint  
 - **Law and Justice**: Captures concepts of equality, crime, retribution, and punishment  
-- **Technology and Modern Life**: Advancements that shape society, culture, and daily life 
-- **Outliers**: Words that do not strongly align with any specific theme
+- **Animals**: References to creatures of the natural and domesticated realms 
+- **Technology and Modern Life**: Advancements that shape society, culture, and daily life, as well as modern living
 
 <br>
 
