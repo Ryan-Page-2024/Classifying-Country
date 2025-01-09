@@ -25,8 +25,13 @@ This image showcases the final segment of the Country Vibes Playlist, featuring 
 
 <br>
 
-## File Name: ProjectScope
-This image outlines the Project Scope for the Country Music Topic Modeling project, divided into four distinct sections: Featured Songs, Data Exploration, Topic Modeling, and Artist Profiles.
+## File Name: Classifying_Country_Scope
+I analyzed Country Music lyrics to uncover the genre's core themes through applying natural language techniques and diving into the stories that resonate with so many listeners.
+
+<br>
+
+## File Name: Artist_Profiles_Scope
+Building on our analysis of Country Music, this script takes a closer look at 40 popular Country artists (each with at least 5 songs) through wordclouds and radar charts, revealing the unique lyrical themes that define their music.
 
 <br>
 
