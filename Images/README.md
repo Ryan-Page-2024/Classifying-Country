@@ -1,5 +1,11 @@
 # Summary of Included Images
 
+## File Name: A_Note
+A note of appreciation
+
+<br>
+
+
 ## File Name: Collabs_A
 This image displays 20 song collaborations featured on the Country Vibes Playlist along with their lead artist and guest artists, categorized by title and artist origin.
 
