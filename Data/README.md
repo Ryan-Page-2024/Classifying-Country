@@ -13,7 +13,7 @@ Spreadsheet designed to identify and analyze the original context in which words
 
 <br>
 
-## File Name: Cleaned_Lyrics_Analysis
+## File Name: Lyrics_Analysis_Cleaned
 An updated, cleaned version of Initial_Lyrics_Analysis, containing three sheets:
 - **Themes: Outlines the Framework of Country Themes**
 - **Lyrics_in_Contex: Contains the same fields as those mentioned in Initial_Lyrics_Analysis, as well as a manually updated Classification**
