@@ -5,7 +5,7 @@ This image displays 20 song collaborations featured on the Country Vibes Playlis
 
 <br>
 
-## File Name: Collaborations_B
+## File Name: Collabs_B
 This image displays 6 song collaborations featured on the Country Vibes Playlist, listing the song titles, lead artist, and multiple collaborative artists. The states the artists are from have been included as well.
 
 <br>
