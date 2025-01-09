@@ -1,15 +1,5 @@
 # Summary of Data
 
-## File Name: song_lyrics
-This dataset provides information about Country music tracks, including the following fields:
-- **Song_Title: Title of each song**
-- **Release_Date: Date the song was released**
-- **Artists: Primary artist(s) associated with the song**
-- **Hometowns: Hometowns that featured artists are from**
-- **Lyrics: Lyrical content of each track**
-
-<br>
-
 ## File Name: Initial_Lyrics_Analysis
 Spreadsheet designed to identify and analyze the original context in which words appear within song lyrics, providing a template that was used to update the lyrical classification manually. Includes the following fields:
 - **Song_Title: Title of each song**
@@ -22,3 +12,23 @@ Spreadsheet designed to identify and analyze the original context in which words
 - **Cnt_of_Word: The amount of times a word appears within the line being considered for classification**
 
 <br>
+
+## File Name: Cleaned_Lyrics_Analysis
+An updated, cleaned version of Initial_Lyrics_Analysis, containing three sheets:
+- **Themes: Tab outlines the Framework of Country Themes**
+- **Lyrics_in_Contex: Tab contains the same fields as those mentioned in Initial_Lyrics_Analysis, as well as a manually updated Classification**
+- **Lines_Categorized: Tab outlines each track and line in order alongside its Classification**
+
+<br>
+
+## File Name: song_lyrics
+This dataset provides information about Country music tracks, including the following fields:
+- **Song_Title: Title of each song**
+- **Release_Date: Date the song was released**
+- **Artists: Primary artist(s) associated with the song**
+- **Hometowns: Hometowns that featured artists are from**
+- **Lyrics: Lyrical content of each track**
+
+<br>
+
+
