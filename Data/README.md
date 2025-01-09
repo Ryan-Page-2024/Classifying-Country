@@ -15,9 +15,9 @@ Spreadsheet designed to identify and analyze the original context in which words
 
 ## File Name: Cleaned_Lyrics_Analysis
 An updated, cleaned version of Initial_Lyrics_Analysis, containing three sheets:
-- **Themes: Tab outlines the Framework of Country Themes**
-- **Lyrics_in_Contex: Tab contains the same fields as those mentioned in Initial_Lyrics_Analysis, as well as a manually updated Classification**
-- **Lines_Categorized: Tab outlines each track and line in order alongside its Classification**
+- **Themes: Outlines the Framework of Country Themes**
+- **Lyrics_in_Contex: Contains the same fields as those mentioned in Initial_Lyrics_Analysis, as well as a manually updated Classification**
+- **Lines_Categorized: Highlights each track and line in order alongside its Classification**
 
 <br>
 
