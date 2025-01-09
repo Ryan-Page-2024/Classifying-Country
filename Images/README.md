@@ -1,7 +1,7 @@
 # Summary of Included Images
 
 ## File Name: A_Note
-A note of appreciation and insights shared from this project
+A note of appreciation and insights shared from this project.
 
 <br>
 
@@ -32,7 +32,7 @@ This image showcases the final segment of the Country Vibes Playlist, featuring 
 <br>
 
 ## File Name: Classifying_Country_Scope
-I analyzed Country Music lyrics to uncover the genre's core themes through applying natural language techniques and diving into the stories that resonate with so many listeners.
+I analyzed Country Music lyrics to uncover the genre's core themes through applying natural language techniques and diving into the stories that resonate with so many. listeners.
 
 <br>
 
