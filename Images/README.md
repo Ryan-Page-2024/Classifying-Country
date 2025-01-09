@@ -5,6 +5,15 @@ A note of appreciation and insights shared from this project.
 
 <br>
 
+## File Name: Artist_Profiles_Scope
+This image outlines Classifying Country Part II scope.
+
+<br>
+
+## File Name: Classifying_Country_Scope
+This image outlines Classifying Country Part I scope. 
+
+<br>
 
 ## File Name: Collabs_A
 This image displays 20 song collaborations featured on the Country Vibes Playlist along with their lead artist and guest artists, categorized by title and artist origin.
@@ -31,17 +40,7 @@ This image showcases the final segment of the Country Vibes Playlist, featuring 
 
 <br>
 
-## File Name: Classifying_Country_Scope
-This image outlines Classifying Country Part I scope. 
-
-<br>
-
-## File Name: Artist_Profiles_Scope
-This image outlines Classifying Country Part II scope.
-
-<br>
-
-## File Name: Topic_Modeling_Themes
+## File Name: Themes
 This image outlines a structured overview of thematic categories used for analyzing Country Music lyrics. Each theme is paired with a concise description highlighting its focus.
 
 <br>
